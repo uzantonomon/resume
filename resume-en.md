@@ -10,19 +10,25 @@ I'm a self-taught Linux user, administrator and enthusiast. Fast learner, experi
 
 **Name**: Diogo Ferreira
 
-**Phone**: ---------
+**Phone**: -------
 
 **E-mail address**: dferreira [at] diogoferreira [dot] pt
 
 **Personal page**: [https://diogoferreira.pt](https://diogoferreira.pt)
 
-**Date of birth**: --/--/---
+**Date of birth**: --/--/----
 
 **Nationality**: Portuguese
 
 ## PROFESSIONAL EXPERIENCE
 
 ---
+
+#### 2022 - Present date (_3 months_)
+
+### **System Engineer**
+
+##### EXADS, Sandyford, County Dublin, Ireland (Remote) [https://www.exads.com](https://www.exads.com)
 
 #### 2020 - Present date (_1 year_)
 
@@ -33,7 +39,7 @@ I'm a self-taught Linux user, administrator and enthusiast. Fast learner, experi
 - Design and build a custom infrastructure using Ansible, Bash, Docker and KVM.
 - Technical documentation.
 
-#### 2014 - Present date (_7 years_)
+#### 2014 - 2022 (_8 years_)
 
 ### **Linux System Administrator**
 

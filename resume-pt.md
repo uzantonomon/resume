@@ -24,6 +24,12 @@ Utilizador, administrador e entusiasta de sistemas Linux, com facilidade de apre
 
 ---
 
+#### 2022 - Presente (_3 meses_)
+
+### **Engenheiro de Sistemas**
+
+##### EXADS, Sandyford, County Dublin, Ireland (Remoto) [https://www.exads.com](https://www.exads.com)
+
 #### 2020 - Presente (_1 ano_)
 
 ### **Administrador de Sistemas Linux - Freelancer**
