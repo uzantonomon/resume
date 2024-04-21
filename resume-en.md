@@ -24,11 +24,18 @@ I'm a self-taught Linux user, administrator and enthusiast. Fast learner, experi
 
 ---
 
-#### 2022 - Present date (_3 months_)
+#### 2022 - Present date (_2 years_)
 
 ### **System Engineer**
 
 ##### EXADS, Sandyford, County Dublin, Ireland (Remote) [https://www.exads.com](https://www.exads.com)
+
+- Installation, support and maintenance of the server hardware and software infrastructure
+- Management of database systems and web servers
+- Monitoring server and network usage
+- Ensuring the most cost-effective and efficient use of resources
+- Planning and implementing future deployments
+- Configuration management
 
 #### 2020 - Present date (_1 year_)
 

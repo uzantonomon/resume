@@ -24,7 +24,14 @@ Utilizador, administrador e entusiasta de sistemas Linux, com facilidade de apre
 
 ---
 
-#### 2022 - Presente (_3 meses_)
+#### 2022 - Presente (_2 anos_)
+
+- Instalação, suporte e manutenção da infraestrutura de hardware e software
+- Gestão de sistemas de bases de dados e servidores web
+- Monitorização de servidores e rede
+- Garantir a alocação mais económica e eficiente de recursos
+- Planeamento e implementação de futuros melhoramentos
+- Automatização de configurações
 
 ### **Engenheiro de Sistemas**
 
