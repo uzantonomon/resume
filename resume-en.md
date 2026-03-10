@@ -12,7 +12,7 @@ I'm a self-taught Linux user, administrator and enthusiast. Fast learner, experi
 
 **Phone**: -------
 
-**E-mail address**: dferreira [at] diogoferreira [dot] pt
+**E-mail address**: diogo [at] diogoferreira [dot] pt
 
 **Personal page**: [https://diogoferreira.pt](https://diogoferreira.pt)
 

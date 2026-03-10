@@ -12,7 +12,7 @@ Utilizador, administrador e entusiasta de sistemas Linux, com facilidade de apre
 
 **Contacto telefónico**: ---------
 
-**Endereço electrónico**: dferreira [at] diogoferreira [dot] pt
+**Endereço electrónico**: diogo [at] diogoferreira [dot] pt
 
 **Página pessoal**: [https://diogoferreira.pt](https://diogoferreira.pt)
 
